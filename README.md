@@ -21,6 +21,11 @@ Visual components and Python
 
 
 ## Program:
+NAME: HARITHA RAMESH
+
+REGISTER NUMBER: 212223100011
+
+DEPARTMENT: CSE(CYBER SECURITY)
 ```
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
 ser_time1=float(input("Enter the mean  inter service time of Lathe Machine 1 (in secs) :  "))
